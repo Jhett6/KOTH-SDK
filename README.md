@@ -1,6 +1,6 @@
 # KOTH-SDK
 Squad King Of The Hill [KOTH] Map SDK.
-This is intended to be used to make custom maps and content for [Squad KOTH Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3443779816)
+This is intended to be used to make custom maps and content for [Squad KOTH Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3443779816). It does not contain the core functionality or code and is only a minimal template for cross-mod compatability.
 
 [Documentation by Wilowisp](https://docs.google.com/document/d/1Kinc6n2l0d8zPzVdwkypIMzN928UGONUsl8T969wkAY)
 
