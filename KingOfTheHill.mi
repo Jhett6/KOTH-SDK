@@ -1,0 +1,9 @@
+[Modding.Core]
+Name=KingOfTheHill
+Description="[h1] What is King of the Hill? [/h1]\r\n- Inspired by Arma 3\'s KOTH game mode\r\n- Replaces traditional loadouts and roles with a flattened economy system\r\n\r\n[h1] Players Earn Rewards [/h1]\r\n- Capturing and contesting zones\r\n- Team actions (transportation, suppression, kills)\r\n\r\n[h1] Money and XP [/h1]\r\n- Customize loadouts (perks, skins)\r\n- Purchase vehicles to reach the zone\r\n\r\n[h1] Persistent Saves [/h1]\r\n- Stored server-side\r\n- Your XP, Money, Unlocks persist through map changes and server restarts\r\n- Wipes managed by server owners\r\n- Saves shared between linked servers\r\n\r\n[h1] Fully Configurable [/h1]\r\n- Server owners can edit store prices and mod items live via json files\r\n- We will start collaborating with other mods via small mod packs to add items to store\r\n- Compatible with Discord bot integrations for real-time changes\r\n\r\n[h1] Gameplay Structure [/h1]\r\n- Designed for three teams (currently two are functional), and fully chaotic with small populations!\r\n- Main capture zone and a moving priority zone\r\n- Priority zone rewards double points and bonuses\r\n- Towers added to strategic stronghold positions on maps\r\n- Single team-wide MSV or purchased vehicles replace FOBs/rallies for spawn points\r\n- Fortifications purchased using earned in-game money, instead of supplies\r\n\r\n[h1][url=https://discord.gg/fnCjbctPr5] Join our Discord! [/url][/h1]\r\n[h1][url=https://buymeacoffee.com/jhett] Buy me a Coffee! [/url][/h1]\r\n\r\n[h3]Thank you PSG for providing us servers! [/h3]\r\n[url=https://psg-hosting.com/] Please support PSG here [/url]"
+MD5=
+ID=
+Version=ce23970aa72ce6be8c005288fcd42941
+MajorVersion=16
+ChangeListNumber=0
+
